@@ -26,7 +26,7 @@ Para rodar a API, você precisará das seguintes ferramentas: [Git](https://git-
 Clone o repositório e instale as dependências
 ```bash
 # para clonar o repositório:
-git clone 
+git clone https://github.com/Antonio-Franca/vuttr.git
 
 #vá para pasta onde está a API
 cd vuttr
