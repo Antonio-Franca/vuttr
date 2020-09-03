@@ -14,6 +14,7 @@ mongoose.connect('mongodb://localhost:27017/dbvuttr',{
     useNewUrlParser: true,
     useCreateIndex: true
 });
+
 mongoose.set('useFindAndModify', false);
 
 //Configuração para as models
